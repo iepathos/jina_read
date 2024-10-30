@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "jina-read"
 version = "0.1.0"
-description = ""
+description = "A CLI tool to fetch and save markdown content from Jina AI URLs"
 authors = ["Glen Baker <iepathos@gmail.com>"]
 readme = "README.md"
 
